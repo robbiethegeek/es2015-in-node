@@ -1,7 +1,3 @@
-# -
-#   filename: 
-#   url:
-filename: let.md 
 -
   filename: string-repeat.md
   url: https://gist.github.com/kylehill/3f88cd63bbb3f431176e
@@ -23,4 +19,9 @@ filename: let.md
   filename: Object.assign().md
   url: /Object.assign().md
 - spread.md
+- end.md
+  filename: binary-octal-literals.md
+  url: https://gist.github.com/solowt/032bc3e3661576da02c2
+- arrow.md
+- let.md
 - end.md
